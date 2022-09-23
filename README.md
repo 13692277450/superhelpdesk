@@ -119,7 +119,7 @@
   <!-- Footer Section -->
   <footer id="contact">
     <p class="hero_header"><strong style="color: #735AD9">GET IN TOUCH WITH US</strong></p>
-    <div class="button">Contact with pavogroup&nbsp;&nbsp; </div>
+    <div class="button">Contact with pavogroup: www.pavogroup.top &nbsp;&nbsp; </div>
   </footer>
   <!-- Copyrights Section -->
   <div class="copyright">&copy;2022 - <strong>Pavogroup inc.</strong></div>
